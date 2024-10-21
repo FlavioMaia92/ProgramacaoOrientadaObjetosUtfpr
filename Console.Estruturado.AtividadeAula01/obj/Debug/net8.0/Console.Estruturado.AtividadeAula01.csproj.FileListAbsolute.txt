@@ -1,0 +1,15 @@
+C:\Users\flavi\Desktop\UTFPR MD\5° Semestre\ProgramacaoOrientadaObjetos\ProgramacaoOrientadaObjetosUtfpr\Console.Estruturado.AtividadeAula01\bin\Debug\net8.0\Console.Estruturado.AtividadeAula01.exe
+C:\Users\flavi\Desktop\UTFPR MD\5° Semestre\ProgramacaoOrientadaObjetos\ProgramacaoOrientadaObjetosUtfpr\Console.Estruturado.AtividadeAula01\bin\Debug\net8.0\Console.Estruturado.AtividadeAula01.deps.json
+C:\Users\flavi\Desktop\UTFPR MD\5° Semestre\ProgramacaoOrientadaObjetos\ProgramacaoOrientadaObjetosUtfpr\Console.Estruturado.AtividadeAula01\bin\Debug\net8.0\Console.Estruturado.AtividadeAula01.runtimeconfig.json
+C:\Users\flavi\Desktop\UTFPR MD\5° Semestre\ProgramacaoOrientadaObjetos\ProgramacaoOrientadaObjetosUtfpr\Console.Estruturado.AtividadeAula01\bin\Debug\net8.0\Console.Estruturado.AtividadeAula01.dll
+C:\Users\flavi\Desktop\UTFPR MD\5° Semestre\ProgramacaoOrientadaObjetos\ProgramacaoOrientadaObjetosUtfpr\Console.Estruturado.AtividadeAula01\bin\Debug\net8.0\Console.Estruturado.AtividadeAula01.pdb
+C:\Users\flavi\Desktop\UTFPR MD\5° Semestre\ProgramacaoOrientadaObjetos\ProgramacaoOrientadaObjetosUtfpr\Console.Estruturado.AtividadeAula01\obj\Debug\net8.0\Console.Estruturado.AtividadeAula01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flavi\Desktop\UTFPR MD\5° Semestre\ProgramacaoOrientadaObjetos\ProgramacaoOrientadaObjetosUtfpr\Console.Estruturado.AtividadeAula01\obj\Debug\net8.0\Console.Estruturado.AtividadeAula01.AssemblyInfoInputs.cache
+C:\Users\flavi\Desktop\UTFPR MD\5° Semestre\ProgramacaoOrientadaObjetos\ProgramacaoOrientadaObjetosUtfpr\Console.Estruturado.AtividadeAula01\obj\Debug\net8.0\Console.Estruturado.AtividadeAula01.AssemblyInfo.cs
+C:\Users\flavi\Desktop\UTFPR MD\5° Semestre\ProgramacaoOrientadaObjetos\ProgramacaoOrientadaObjetosUtfpr\Console.Estruturado.AtividadeAula01\obj\Debug\net8.0\Console.Estruturado.AtividadeAula01.csproj.CoreCompileInputs.cache
+C:\Users\flavi\Desktop\UTFPR MD\5° Semestre\ProgramacaoOrientadaObjetos\ProgramacaoOrientadaObjetosUtfpr\Console.Estruturado.AtividadeAula01\obj\Debug\net8.0\Console.Estruturado.AtividadeAula01.sourcelink.json
+C:\Users\flavi\Desktop\UTFPR MD\5° Semestre\ProgramacaoOrientadaObjetos\ProgramacaoOrientadaObjetosUtfpr\Console.Estruturado.AtividadeAula01\obj\Debug\net8.0\Console.Estruturado.AtividadeAula01.dll
+C:\Users\flavi\Desktop\UTFPR MD\5° Semestre\ProgramacaoOrientadaObjetos\ProgramacaoOrientadaObjetosUtfpr\Console.Estruturado.AtividadeAula01\obj\Debug\net8.0\refint\Console.Estruturado.AtividadeAula01.dll
+C:\Users\flavi\Desktop\UTFPR MD\5° Semestre\ProgramacaoOrientadaObjetos\ProgramacaoOrientadaObjetosUtfpr\Console.Estruturado.AtividadeAula01\obj\Debug\net8.0\Console.Estruturado.AtividadeAula01.pdb
+C:\Users\flavi\Desktop\UTFPR MD\5° Semestre\ProgramacaoOrientadaObjetos\ProgramacaoOrientadaObjetosUtfpr\Console.Estruturado.AtividadeAula01\obj\Debug\net8.0\Console.Estruturado.AtividadeAula01.genruntimeconfig.cache
+C:\Users\flavi\Desktop\UTFPR MD\5° Semestre\ProgramacaoOrientadaObjetos\ProgramacaoOrientadaObjetosUtfpr\Console.Estruturado.AtividadeAula01\obj\Debug\net8.0\ref\Console.Estruturado.AtividadeAula01.dll
