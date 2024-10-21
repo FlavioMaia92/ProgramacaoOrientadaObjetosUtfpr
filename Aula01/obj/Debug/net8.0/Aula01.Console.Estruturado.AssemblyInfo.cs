@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Aula01.Console.Estruturado")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4935889a53d62cdcfd2366d5a66fa1c816e343ec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+462f9778e206d464cdfd567838940119caffb979")]
 [assembly: System.Reflection.AssemblyProductAttribute("Aula01.Console.Estruturado")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Aula01.Console.Estruturado")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
